@@ -1,0 +1,11 @@
+,name_first,name_last,client_id,meal_id,loss,resaurant,location,foodstamps,delivery,meal title,price,fat,carb,protein,sugar,sodium,calories
+0,Josiah,Carberry,0,15,0.37,,"333 W River St, Providence, RI 02904",True,,Arroz con Pollo (Chicken with Rice) x2,3.6,7.6,60.0,60.0,4.0,266,556
+1,Josiah,Carberry,0,11,0.42,,"51 Silver Spring St, Providence, RI 02904",True,,Chicken Enchiladas x2,2.25,20.0,40.0,33.6,13.2,2106,474
+2,Josiah,Carberry,0,7,0.46,,"333 W River St, Providence, RI 02904",True,,Arroz con Pollo (Chicken with Rice),3.6,3.8,30.0,30.0,2.0,133,278
+3,Josiah,Carberry,0,8,0.47,,"51 Silver Spring St, Providence, RI 02904",True,,Turkey Lettuce Wrap x2,3.5999999999999996,34.8,23.0,53.8,10.6,798,602
+4,Josiah,Carberry,0,3,0.5,,"51 Silver Spring St, Providence, RI 02904",True,,Chicken Enchiladas,2.25,10.0,20.0,16.8,6.6,1053,237
+5,Josie,Carberry,1,6,0.37,,"333 W River St, Providence, RI 02904",True,,Sweet and Sour Pork Tenderloin with Pineapple,3.165,8.4,66.3,32.0,5.5,436,473
+6,Josie,Carberry,1,14,0.4,,"333 W River St, Providence, RI 02904",True,,Sweet and Sour Pork Tenderloin with Pineapple x2,3.165,16.8,132.6,64.0,11.0,872,946
+7,Josie,Carberry,1,15,0.53,,"333 W River St, Providence, RI 02904",True,,Arroz con Pollo (Chicken with Rice) x2,3.6,7.6,60.0,60.0,4.0,266,556
+8,Josie,Carberry,1,10,0.59,,"51 Silver Spring St, Providence, RI 02904",True,,Mini Shepherd's Pie x2,2.9050000000000002,41.6,50.6,34.8,7.4,924,720
+9,Josie,Carberry,1,1,0.62,,"51 Silver Spring St, Providence, RI 02904",True,,Baked Spinach Macaroni,4.4,23.0,55.0,34.3,8.0,713,563
