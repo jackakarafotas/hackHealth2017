@@ -1,0 +1,11 @@
+,name_first,name_last,client_id,meal_id,loss,resaurant,location,foodstamps,delivery,meal title,price,fat,carb,protein,sugar,sodium,calories
+0,Josiah,Carberry,0,15,0.25,East Side Pockets,"278 Thayer St, Providence, RI 02906",,False,Chicken Kabob Pocket,6.02,17.0,54,49,5,1516,570
+1,Josiah,Carberry,0,46,0.28,Subway,"255 Weybosset St, Providence, RI 02903",True,True,Oven Roasted Chicken Sandwich x2,9.38,10.0,92,46,16,1220,640
+2,Josiah,Carberry,0,45,0.28,Subway,"255 Weybosset St, Providence, RI 02903",True,True,Black Forest Ham Sandwich x2,7.0,9.0,92,36,16,1600,580
+3,Josiah,Carberry,0,47,0.28,Subway,"255 Weybosset St, Providence, RI 02903",True,True,Roast Beef Sandwich x2,10.38,10.0,90,50,14,1320,640
+4,Josiah,Carberry,0,1,0.29,Harry's Bar & Burger,"121 North Main St. Providence, RI 02903",,False,Buffalo Chicken Sandwich,6.49,17.0,76,47,2,1412,647
+5,Josie,Carberry,1,9,0.31,Pizza Pie-er,"374 Wickenden St, Providence, RI 02903",,True,Grek D'lite-er,6.99,34.0,76,46,0,1278,808
+6,Josie,Carberry,1,36,0.32,Louis Family Restaurant,"286 Brook St, Providence, RI 02906",,True,Poached Passion x2,14.5,24.0,58,42,4,618,600
+7,Josie,Carberry,1,11,0.34,Louis Family Restaurant,"286 Brook St, Providence, RI 02906",,True,Poached Passion,7.25,12.0,29,21,2,309,300
+8,Josie,Carberry,1,13,0.35,Louis Family Restaurant,"286 Brook St, Providence, RI 02906",,True,Veggie Omelette,8.75,16.0,6,20,3,321,250
+9,Josie,Carberry,1,1,0.38,Harry's Bar & Burger,"121 North Main St. Providence, RI 02903",,False,Buffalo Chicken Sandwich,6.49,17.0,76,47,2,1412,647
